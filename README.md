@@ -1,4 +1,3 @@
-
 <html lang="en" id="mainHtml">
 <!-- VERSION 2.0.4 - FORCED CONTRAST & WIDTH FIX -->
 <head>
